@@ -1,0 +1,47 @@
+.container-fluid{
+    max-width: 54%;
+    padding: 30px;
+    border: 2px;
+    margin: auto;
+    color: black; 
+    background-color:#F8F8FF;
+    margin-top: 10%;
+    border-radius: 3%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.currencytest{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: green;
+    margin-top: 0%;
+}
+.values{
+    padding: 2%;  
+    margin-top: 20px;  
+}
+#myselect{
+    margin-left: 20px;
+
+}
+.from{
+    padding: 2%;    
+}
+.to{
+    padding: 2%;    
+}
+.convert{
+    padding: 1%; 
+    margin-left: 40%; 
+    width: 20%; 
+    background-color: #4CAF50;
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 1%;
+    border: solid; 
+    border-color:white; 
+}
+.convert:hover {
+    background-color: #ddd;
+    color: black;
+  }
