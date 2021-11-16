@@ -376,7 +376,7 @@
                             document.getElementById("conversion").innerHTML=integer*0.018+" "+"Australian Dollar"
                                break;
 
-                              default; 
+                        default:
                         
                                    }
 
